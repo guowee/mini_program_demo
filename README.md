@@ -1,7 +1,7 @@
 # mini_program_demo
 微信小程序官方组件的学习与使用
 ## 基础组件
-+ text
++ *text*
   
 <table>
 <thead>
@@ -34,7 +34,7 @@
 </tbody>
 </table>
 
-#### space有效值
+#### *space有效值
 <table>
 <thead>
 <tr>
