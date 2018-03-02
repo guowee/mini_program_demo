@@ -4,6 +4,7 @@
     "pages/logs/logs",
     "pages/component/text/text",
     "pages/component/icon/icon",
+    "pages/component/progress/progress",
     "pages/component/button/button",
     "pages/component/checkbox/checkbox",
     "pages/component/form/form",
