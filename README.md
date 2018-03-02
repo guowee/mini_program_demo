@@ -14,7 +14,7 @@
 </tbody>
 </table>
 
-*space有效值
+_space有效值_
 <table>
 <thead>
 <tr><th>值</th><th>说明</th></tr>
@@ -25,7 +25,7 @@
 <tr><td>nbsp</td><td>根据字体设置的空格大小</td></tr>
 </tbody>
 </table>
-
+***
 + *icon*
 <table>
 <thead>
@@ -37,6 +37,5 @@
 <tr><td>color</td><td>Color</td><td></td><td>icon的颜色，同css的color</td></tr>
 </tbody>
 </table>
-
-
+***
 + *progress*
