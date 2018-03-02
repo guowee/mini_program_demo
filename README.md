@@ -19,6 +19,18 @@
 <td>false</td>
 <td>文本是否可选</td>
 </tr>
+  <tr>
+<td>space</td>
+<td>String</td>
+<td>false</td>
+<td>显示连续空格</td>
+</tr>
+  <tr>
+<td>decode</td>
+<td>Boolean</td>
+<td>false</td>
+<td>是否解码</td>
+</tr>
 </tbody>
 </table>
 
