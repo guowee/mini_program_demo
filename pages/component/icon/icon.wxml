@@ -56,7 +56,25 @@
   </view>
   <view class="icon-box">
     <view class="icon-small-wrp">
-      <icon class="icon-small" type="warn" size="23"></icon>
+      <icon class="icon-small" type="info" size="20"></icon>
+    </view>
+    <view class="icon-box-ctn">
+      <view class="icon-box-title">提示</view>
+      <view class="icon-box-desc">用于在表单中表示提示信息</view>
+    </view>
+  </view>
+    <view class="icon-box">
+    <view class="icon-small-wrp">
+      <icon class="icon-small" type="waiting" size="20"></icon>
+    </view>
+    <view class="icon-box-ctn">
+      <view class="icon-box-title">等待</view>
+      <view class="icon-box-desc">用于在表单中表示等待信息</view>
+    </view>
+  </view>
+  <view class="icon-box">
+    <view class="icon-small-wrp">
+      <icon class="icon-small" type="warn" size="20"></icon>
     </view>
     <view class="icon-box-ctn">
       <view class="icon-box-title">错误提示</view>
@@ -66,7 +84,7 @@
 
   <view class="icon-box">
     <view class="icon-small-wrp">
-      <icon class="icon-small" type="success" size="23"></icon>
+      <icon class="icon-small" type="success" size="20"></icon>
     </view>
     <view class="icon-box-ctn">
       <view class="icon-box-title">单选控件图标_已选择</view>
@@ -76,7 +94,7 @@
 
   <view class="icon-box">
     <view class="icon-small-wrp">
-      <icon class="icon-small" type="download" size="23"></icon>
+      <icon class="icon-small" type="download" size="20"></icon>
     </view>
     <view class="icon-box-ctn">
       <view class="icon-box-title">下载</view>
@@ -86,26 +104,30 @@
 
   <view class="icon-box">
     <view class="icon-small-wrp">
-      <icon class="icon-small" type="cancel" size="23"></icon>
+      <icon class="icon-small" type="cancel" size="20"></icon>
     </view>
     <view class="icon-box-ctn">
       <view class="icon-box-title">停止或关闭</view>
       <view class="icon-box-desc">用于在表单中，表示关闭或停止</view>
     </view>
   </view>
-
   <view class="icon-box">
     <view class="icon-small-wrp">
-      <icon class="icon-small" type="search" size="14"></icon>
+      <icon class="icon-small" type="clear" size="20"></icon>
+    </view>
+    <view class="icon-box-ctn">
+      <view class="icon-box-title">清除</view>
+      <view class="icon-box-desc">用于在表单中，表示可清除</view>
+    </view>
+  </view>
+  <view class="icon-box">
+    <view class="icon-small-wrp">
+      <icon class="icon-small" type="search" size="20"></icon>
     </view>
     <view class="icon-box-ctn">
       <view class="icon-box-title">搜索</view>
       <view class="icon-box-desc">用于搜索控件中，表示可搜索</view>
     </view>
   </view>
-
-
-
-
-
+  
 </view>
