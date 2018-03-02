@@ -25,8 +25,7 @@ _space有效值_
 <tr><td>nbsp</td><td>根据字体设置的空格大小</td></tr>
 </tbody>
 </table>
-***
-<br/>
+
 + *icon*
 <table>
 <thead>
@@ -38,6 +37,5 @@ _space有效值_
 <tr><td>color</td><td>Color</td><td></td><td>icon的颜色，同css的color</td></tr>
 </tbody>
 </table>
-***
-<br/>
+
 + *progress*
