@@ -1,0 +1,39 @@
+.icon {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  justify-content: space-between;
+  font-size: 32rpx;
+  font-family: -apple-system-font,Helvetica Neue,Helvetica,sans-serif;
+}
+
+
+.icon-box {
+  margin-bottom: 40rpx;
+  padding: 0 75rpx;
+  display: flex;
+  align-items: center;
+}
+.icon-box-img {
+  margin-right: 46rpx;
+}
+.icon-box-ctn {
+  flex-shrink: 100;
+}
+.icon-box-title {
+  font-size: 34rpx;
+}
+.icon-box-desc {
+  margin-top: 12rpx;
+  font-size: 26rpx;
+  color: #888;
+}
+
+.icon-small-wrp{
+  margin-right: 46rpx;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
