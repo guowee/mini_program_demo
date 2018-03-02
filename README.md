@@ -3,9 +3,24 @@
 ## 基础组件
 * text
   
-  属性名 | 类型 | 默认值 | 说明 
-  | :-: | :-: | -: 
-  selectable | Boolean | false | 文本是否可选
+<table>
+<thead>
+<tr>
+<th>属性名</th>
+<th>类型</th>
+<th>默认值</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>selectable</td>
+<td>Boolean</td>
+<td>false</td>
+<td>文本是否可选</td>
+</tr>
+</tbody>
+</table>
 
 
 ### icon
