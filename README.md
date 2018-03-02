@@ -34,7 +34,7 @@
 </tbody>
 </table>
 
-#### *space有效值
+#### space有效值
 <table>
 <thead>
 <tr>
