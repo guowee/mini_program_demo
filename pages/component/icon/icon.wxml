@@ -1,4 +1,4 @@
-<view class="icon">
+<view class="container-box">
   <view class="icon-box">
     <icon class="icon-box-img" type="success" size="50"></icon>
     <view class="icon-box-ctn">
