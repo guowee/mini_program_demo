@@ -34,7 +34,15 @@ Page({
        name: '媒体组件',
        open: false,
        pages:['image','audio','video']
+     },
+     {
+       id: 'map',
+       name: '地图',
+       open: false,
+       pages: ['map']
      }
+
+
    ]
   },
   kindToggle: function (e) {

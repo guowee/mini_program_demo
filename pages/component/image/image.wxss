@@ -1,1 +1,11 @@
 /* pages/component/image/image.wxss */
+.page-section-ctn {
+  text-align: center;
+}
+
+.image {
+  margin-top: 30rpx;
+  width: 580rpx;
+  height: 208rpx;
+}
+

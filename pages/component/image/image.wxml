@@ -1,2 +1,19 @@
 <!--pages/component/image/image.wxml-->
-<text>pages/component/image/image.wxml</text>
+<view class="container-box">
+ 
+  <view class="page-body">
+    <view class="page-section page-section-gap">
+      <view class="page-section-title">Local Image</view>
+      <view class="page-section-ctn">
+        <image class="image" src="../../../resources/pic/y4.jpg"/>
+      </view>
+    </view>
+    <view class="page-section page-section-gap">
+      <view class="page-section-title">Internet Image</view>
+      <view class="page-section-ctn">
+        <image class="image" src="../../../resources/pic/y7.jpg"/>
+      </view>
+    </view>
+  </view>
+
+</view>

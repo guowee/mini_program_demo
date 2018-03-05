@@ -19,15 +19,20 @@
     "pages/component/scroll-view/scroll-view",
     "pages/component/swiper/swiper",
     "pages/component/navigator/navigator",
+    "pages/component/navigator/navigate",
+    "pages/component/navigator/redirect",
     "pages/component/image/image",
     "pages/component/audio/audio",
-    "pages/component/video/video"
+    "pages/component/video/video",
+    "pages/component/map/map"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "小程序",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
   },
   "tabBar": {
     "color": "#7A7E83",
