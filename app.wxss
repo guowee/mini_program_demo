@@ -29,6 +29,17 @@ page {
   font-size: 32rpx;
   line-height: 1.6;
 }
+checkbox, radio{
+  margin-right: 10rpx;
+}
+button{
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+}
+form{
+  width: 100%;
+}
+
 .page-body {
   width: 100%;
   flex-grow: 1;

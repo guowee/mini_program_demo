@@ -1,1 +1,8 @@
 /* pages/component/input/input.wxss */
+@import "../../common/lib/weui.wxss";
+
+.page-section{
+  margin-bottom: 20rpx;
+}
+
+
