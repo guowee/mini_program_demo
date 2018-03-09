@@ -24,7 +24,8 @@
     "pages/component/image/image",
     "pages/component/audio/audio",
     "pages/component/video/video",
-    "pages/component/map/map"
+    "pages/component/map/map",
+    "pages/component/canvas/canvas"
   ],
   "window": {
     "navigationBarBackgroundColor": "#ffffff",

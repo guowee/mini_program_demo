@@ -1,0 +1,10 @@
+<!--pages/component/canvas/canvas.wxml-->
+<view class="container-box">
+
+  <view class="page-body">
+    <view class="page-body-wrapper">
+      <canvas canvas-id="clock" class="canvas"></canvas>
+    </view>
+  </view>
+
+</view>

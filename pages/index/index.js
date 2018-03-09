@@ -40,7 +40,14 @@ Page({
        name: '地图',
        open: false,
        pages: ['map']
+     },
+     {
+       id: 'canvas',
+       name: '画布',
+       open: false,
+       pages: ['canvas']
      }
+
 
 
    ]
